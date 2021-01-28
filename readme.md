@@ -1,4 +1,12 @@
-# Course project template
+# Superheros
+
+| Name | PID | GitHub account |
+| ---|--------|---------|
+| Superman | superman | superman |
+| Wolverine | wolverine | wolverine |
+| Batman | batman | batman |
+| Thor | thor | thor |
+
 
 ## Things to do 
 1. Add a `.gitignore`. [Examples](https://github.com/github/gitignore)
