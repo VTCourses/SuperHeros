@@ -8,7 +8,7 @@
 * Relational model description
 * SQL statement
 
-## Contributors
+## Team members
 
 | Name | PID | GitHub account |
 | ---|--------|---------|
